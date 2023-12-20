@@ -1,0 +1,31 @@
+/* Admin Style */
+
+.ycpr-grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.ycpr-grid-child .ycpr-title{
+    display:inline;font-size:21px;
+}
+.ycpr-grid-container .yc-pro-link{
+    text-align: right;
+    font-size: 16px;
+}
+.yc-pro-link .ycp-proo{
+    font-size:16px;
+}
+.ycp-pro{
+    color: #2da22d!important;
+    font-weight: bold;
+    padding: 2px 3px;
+    border-radius: 4px;
+}
+.ycp-pro:hover{
+    color:blue!important;
+}
+
+
+
